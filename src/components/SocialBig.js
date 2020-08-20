@@ -10,6 +10,9 @@ const Container = styled.div`
   gap: 20px;
   margin-left: var(--side--margins);
   margin-right: var(--side--margins);
+  @media (max-width: 768px) {
+    grid-template-columns: 100%;
+  }
 `;
 
 const Item = styled.img`

@@ -15,10 +15,17 @@ const Container = styled.div`
   align-items: center;
   margin-left: var(--side--margins);
   margin-right: var(--side--margins);
+  @media (max-width: 768px) {
+    grid-template-columns: 100%;
+    justify-content: center;
+  }
 `;
 
 const Img = styled.img`
   margin-top: 20px;
+  @media (max-width: 768px) {
+    width: calc(100% - 40px);
+  }
 `;
 
 const SocialSmall = () => {

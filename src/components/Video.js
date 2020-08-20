@@ -12,7 +12,7 @@ const Video = () => {
   return (
     <VideoContainer>
       <ReactPlayer
-        url="https://www.youtube.com/watch?v=ug50zmP9I7s"
+        url="https://www.youtube.com/https://www.youtube.com/watch?v=dAcGM4pmo6w&feature=youtu.be?v=ug50zmP9I7s"
         controls={false}
         muted={true}
         playing={false}

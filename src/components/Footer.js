@@ -16,6 +16,9 @@ const Logo = styled.img`
   position: absolute;
   top: 35%;
   left: 1.5%;
+  @media (max-width: 768px) {
+    width: 30%;
+  }
 `;
 
 const Footer = () => {

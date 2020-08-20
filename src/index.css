@@ -1,10 +1,10 @@
 :root {
   --side--margins: 20px;
+  --text--color: #41505f;
 }
 
 body {
   margin: 0;
   font-family: "Source Sans Pro", sans-serif;
   background-color: #faf0d7;
-  font-size: 25px;
 }
