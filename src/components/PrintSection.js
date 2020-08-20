@@ -57,7 +57,7 @@ const PrintSection = () => {
           motiveras till att välkomna nya medlemmar med en öppen famn.
           <br />
           <br />
-          Vi planerar att lanserar slagkraftiga annonser i digitala kanaler som
+          Vi planerar att publicera slagkraftiga annonser i digitala kanaler som
           påminner om ungdomstiden när fråga chans lappar skickades runt i hopp
           om att få inleda en ny relation. Vi ställer frågan vill du bli ihop
           med oss? och använder oss utav hashtagen #ihopmedstf för att skapa en
@@ -66,7 +66,7 @@ const PrintSection = () => {
           <br />
           Vi hoppas föra in fler i gemenskapen genom att trycka på de personliga
           relationer och omhändertagande viljorna som redan existerar inne i
-          organisationen.Vi förstår att STFs medlemmar uppskattar den känsla av
+          organisationen. Vi förstår att STFs medlemmar uppskattar den känsla av
           meningsfullhet som de får av att kunna bidra till det STF gör. Vi tror
           på att vi är starkare tillsammans och därför vill vi genom kampanjen
           verka för att inkludera de som inte annars vistas i naturområden. Vi
@@ -81,7 +81,7 @@ const PrintSection = () => {
           spridning över hela Sverige.
           <br />
           <br />
-          <b>Så nu till frågan! Vill du bil ihop med oss?</b>
+          <b>Så nu till frågan! Vill du bli ihop med oss?</b>
         </Text>
       </TextContainer>
     </Container>

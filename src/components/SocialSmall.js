@@ -22,9 +22,10 @@ const Container = styled.div`
 `;
 
 const Img = styled.img`
-  margin-top: 20px;
+  margin: 20px 0px;
   @media (max-width: 768px) {
     width: calc(100% - 40px);
+    margin: 10px 0px 10px 0px;
   }
 `;
 
